@@ -238,13 +238,6 @@ Current Research includes
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abubakar-netizen&amp;theme=algolia&amp;no-frame=true&amp;margin-w=15&amp;margin-h=15"/>
-
-</div>
 
 ---
 
