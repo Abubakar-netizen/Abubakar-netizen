@@ -1,38 +1,222 @@
-<h1 align="center">Hi 👋, I'm MALIK ABUBAKAR</h1>
-<h3 align="center">Hi 👋 I'm Muhammad Abu Bakar Software Engineering Student.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-netizen&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar-netizen" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:2E86C1&height=200&section=header&text=Muhammad%20Abu%20Bakar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20•%20DevOps%20%26%20Cloud%20Enthusiast&descAlignY=60&descSize=20&descColor=A9CCE3" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakar-netizen" alt="abubakar-netizen" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **Virsa 3D**
+### 🚀 Building Scalable Software • Automating Infrastructure • Exploring AI
 
-- 🌱 I’m currently learning **DevOps and cloud**
+<br/>
 
-- 👯 I’m looking to collaborate on **Virsa 3D,voter info**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;DevOps+%7C+Cloud+Computing;Machine+Learning+%7C+Data+Science;React+%7C+Next.js+%7C+FastAPI;Linux+%7C+Docker+%7C+GitHub+Actions;Always+Learning+New+Technologies)
 
-- 🤝 I’m looking for help with **Virsa 3D**
+<br/>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/malik-abubakar-429672315](www.linkedin.com/in/malik-abubakar-429672315)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-- 💬 Ask me about **react,python Devops**
+<br/>
 
-- 📫 How to reach me **malikabubkrawan@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2E86C1&style=for-the-badge&label=PROFILE+VIEWS)
 
-- ⚡ Fun fact **i think i make every work special with presence and sense of humour**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/malik abubakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malik abubakar" height="30" width="40" /></a>
-<a href="https://fb.com/malik abubakar awan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malik abubakar awan" height="30" width="40" /></a>
-<a href="https://instagram.com/abubkkr_awan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abubkkr_awan" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakar-netizen&show_icons=true&locale=en&layout=compact" alt="abubakar-netizen" /></p>
+I am a **Software Engineering undergraduate** passionate about building scalable software, cloud infrastructure, and AI-powered applications.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakar-netizen&show_icons=true&locale=en" alt="abubakar-netizen" /></p>
+Currently, I am focused on becoming a **DevOps & Cloud Engineer**, while continuously strengthening my skills in backend development, Linux administration, networking, and automation.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-netizen&" alt="abubakar-netizen" /></p>
+Alongside DevOps, I enjoy working on **Machine Learning**, **Data Science**, and **Full Stack Development**, building projects that solve real-world problems.
+
+---
+
+# 🎯 Current Focus
+
+☁️ DevOps & Cloud Computing
+
+🐧 Linux Administration
+
+🐳 Docker & Containerization
+
+⚙️ CI/CD with GitHub Actions
+
+🌐 Full Stack Development
+
+🤖 Machine Learning & AI
+
+📊 Data Science
+
+🗄️ Database Design
+
+📚 Data Structures & Algorithms
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,html,css,bash" />
+
+<br/>
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+<br/>
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,firebase" />
+
+<br/>
+
+## DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions" />
+
+<br/>
+
+## Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+
+<br/>
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
+
+</div>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abubakar-netizen&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakar-netizen&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakar-netizen&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abubakar-netizen&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakar-netizen&theme=tokyo-night"/>
+
+</div>
+
+---
+
+
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Resume Analyzer
+
+Machine Learning powered resume screening platform with modern frontend.
+
+---
+
+### 📈 Sales Prediction SaaS
+
+Next.js + FastAPI application for intelligent sales prediction using multiple ML models.
+
+---
+
+### 📧 Email Spam Detection
+
+Machine Learning project featuring comprehensive EDA, model comparison, and Streamlit dashboard.
+
+---
+
+### 📊 Pakistan Poverty & Unemployment Analysis
+
+Interactive Streamlit dashboard with advanced visualizations and statistical analysis.
+
+---
+
+### 🎬 Motion Graphics Showcase
+
+Next.js project demonstrating advanced Framer Motion animations and SVG interactions.
+
+---
+### 🎬Virsa 3D(currently persuing)
+
+A research project with 3d modelling of archeological sites
+
+---
+### 🎬 urdu to arabic dictionary
+
+A complete software development project in which i develope a dictionary by using java and related technologies
+
+---
+# 📖 Currently Learning
+
+- DevOps Engineering
+- Docker
+- Linux
+- Networking
+- Cloud Computing
+- Kubernetes (Upcoming)
+- Terraform (Upcoming)
+- AWS (Upcoming)
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/malik-abubakar-429672315)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:malikabubkrawan@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Abubakar-netizen)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+*"Learning never exhausts the mind. Every project is another step toward mastery."*
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,50:1B4F72,100:0D1B2A&height=120&section=footer"/>
